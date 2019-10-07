@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "component_index": "/pages/component/index/index",
+    "component_mine": "/pages/component/mine/mine",
+    "component_list": "/pages/component/list/list"
+  }
+}
